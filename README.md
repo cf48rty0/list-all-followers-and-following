@@ -14,10 +14,26 @@
 | -- | -- | -- | -- | -- |
 | - | - | - | - | - |
 
-## Followers <kbd>0</kbd>
+## Followers <kbd>1</kbd>
 
 <table>
-  
+  <tr>
+    <td width="150" align="center">
+      <a href="https://github.com/tan7bot">
+        <img src="https://avatars.githubusercontent.com/u/191672308?v=4" width="50" />
+        <br />
+        tan7bot
+      </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+  </tr>
 </table>
 
 ## Following <kbd>137</kbd>
