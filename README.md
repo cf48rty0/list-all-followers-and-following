@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-## Following <kbd>211</kbd>
+## Following <kbd>212</kbd>
 
 <table>
   <tr>
@@ -1373,6 +1373,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/B4aron1">
+        <img src="https://avatars.githubusercontent.com/u/113099042?v=4" width="50" />
+        <br />
+        B4aron1
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/ddddhm1234">
         <img src="https://avatars.githubusercontent.com/u/113791864?v=4" width="50" />
         <br />
@@ -1400,6 +1407,7 @@
         SickleSec
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/springkill">
         <img src="https://avatars.githubusercontent.com/u/118535366?v=4" width="50" />
@@ -1407,7 +1415,6 @@
         springkill
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yonggekkk">
         <img src="https://avatars.githubusercontent.com/u/121604513?v=4" width="50" />
@@ -1436,6 +1443,7 @@
         JaveleyQAQ
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/adysec">
         <img src="https://avatars.githubusercontent.com/u/133128400?v=4" width="50" />
@@ -1443,7 +1451,6 @@
         adysec
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/honmashironeko">
         <img src="https://avatars.githubusercontent.com/u/139044047?v=4" width="50" />
@@ -1472,6 +1479,7 @@
         MD-SEC
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/TFour123">
         <img src="https://avatars.githubusercontent.com/u/141028165?v=4" width="50" />
@@ -1479,7 +1487,6 @@
         TFour123
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sspsec">
         <img src="https://avatars.githubusercontent.com/u/142762749?v=4" width="50" />
@@ -1508,6 +1515,7 @@
         m-sec-org
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jar-analyzer">
         <img src="https://avatars.githubusercontent.com/u/147261835?v=4" width="50" />
@@ -1515,7 +1523,6 @@
         jar-analyzer
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Vme18000yuan">
         <img src="https://avatars.githubusercontent.com/u/150514343?v=4" width="50" />
@@ -1544,6 +1551,7 @@
         Nacl122
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Symph0nia">
         <img src="https://avatars.githubusercontent.com/u/169965715?v=4" width="50" />
@@ -1551,15 +1559,12 @@
         Symph0nia
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/xxh1210">
         <img src="https://avatars.githubusercontent.com/u/190930990?v=4" width="50" />
         <br />
         xxh1210
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
