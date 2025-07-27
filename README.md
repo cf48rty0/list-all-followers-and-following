@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | - | - | - | - | - |
 
-## Followers <kbd>1</kbd>
+## Followers <kbd>3</kbd>
 
 <table>
   <tr>
@@ -26,8 +26,18 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/seckinyasar">
+        <img src="https://avatars.githubusercontent.com/u/86570205?v=4" width="50" />
+        <br />
+        seckinyasar
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/helallao">
+        <img src="https://avatars.githubusercontent.com/u/78656003?v=4" width="50" />
+        <br />
+        helallao
+      </a>
     </td>
     <td width="150" align="center">
     </td>
