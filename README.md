@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-## Following <kbd>247</kbd>
+## Following <kbd>248</kbd>
 
 <table>
   <tr>
@@ -1815,6 +1815,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/Team-intN18-SoybeanSeclab">
+        <img src="https://avatars.githubusercontent.com/u/197273140?v=4" width="50" />
+        <br />
+        Team-intN18-SoybeanSeclab
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/agentcodee">
         <img src="https://avatars.githubusercontent.com/u/211634216?v=4" width="50" />
         <br />
@@ -1827,8 +1834,6 @@
         <br />
         Snow-Mountain-Passengers
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
