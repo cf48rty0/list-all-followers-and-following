@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | - | - | - | - | - |
 
-## Followers <kbd>3</kbd>
+## Followers <kbd>4</kbd>
 
 <table>
   <tr>
@@ -40,6 +40,11 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/standardgalactic">
+        <img src="https://avatars.githubusercontent.com/u/43516554?v=4" width="50" />
+        <br />
+        standardgalactic
+      </a>
     </td>
     <td width="150" align="center">
     </td>
