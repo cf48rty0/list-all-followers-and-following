@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | - | - | - | - | - |
 
-## Followers <kbd>4</kbd>
+## Followers <kbd>2</kbd>
 
 <table>
   <tr>
@@ -26,25 +26,15 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/seckinyasar">
-        <img src="https://avatars.githubusercontent.com/u/86570205?v=4" width="50" />
-        <br />
-        seckinyasar
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/helallao">
-        <img src="https://avatars.githubusercontent.com/u/78656003?v=4" width="50" />
-        <br />
-        helallao
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/standardgalactic">
         <img src="https://avatars.githubusercontent.com/u/43516554?v=4" width="50" />
         <br />
         standardgalactic
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
