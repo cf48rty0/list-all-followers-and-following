@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-## Following <kbd>284</kbd>
+## Following <kbd>283</kbd>
 
 <table>
   <tr>
@@ -2062,13 +2062,6 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/agentcodee">
-        <img src="https://avatars.githubusercontent.com/u/211634216?v=4" width="50" />
-        <br />
-        agentcodee
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/nbyiansec">
         <img src="https://avatars.githubusercontent.com/u/214764996?v=4" width="50" />
         <br />
@@ -2088,6 +2081,8 @@
         <br />
         tianlusec
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
