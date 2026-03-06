@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-## Following <kbd>287</kbd>
+## Following <kbd>288</kbd>
 
 <table>
   <tr>
@@ -2112,6 +2112,11 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/nucssistdev">
+        <img src="https://avatars.githubusercontent.com/u/253438398?v=4" width="50" />
+        <br />
+        nucssistdev
+      </a>
     </td>
     <td width="150" align="center">
     </td>
