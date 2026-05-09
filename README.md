@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-## Following <kbd>294</kbd>
+## Following <kbd>295</kbd>
 
 <table>
   <tr>
@@ -2098,6 +2098,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/wechat-article">
+        <img src="https://avatars.githubusercontent.com/u/195504668?v=4" width="50" />
+        <br />
+        wechat-article
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Team-intN18-SoybeanSeclab">
         <img src="https://avatars.githubusercontent.com/u/197273140?v=4" width="50" />
         <br />
@@ -2125,6 +2132,7 @@
         nbyiansec
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Snow-Mountain-Passengers">
         <img src="https://avatars.githubusercontent.com/u/217583901?v=4" width="50" />
@@ -2132,7 +2140,6 @@
         Snow-Mountain-Passengers
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/router-for-me">
         <img src="https://avatars.githubusercontent.com/u/233033915?v=4" width="50" />
@@ -2160,8 +2167,6 @@
         <br />
         nucssistdev
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
