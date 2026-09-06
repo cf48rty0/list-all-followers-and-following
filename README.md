@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-## Following <kbd>302</kbd>
+## Following <kbd>304</kbd>
 
 <table>
   <tr>
@@ -2184,6 +2184,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/ZoraMoore">
+        <img src="https://avatars.githubusercontent.com/u/216161524?v=4" width="50" />
+        <br />
+        ZoraMoore
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Snow-Mountain-Passengers">
         <img src="https://avatars.githubusercontent.com/u/217583901?v=4" width="50" />
         <br />
@@ -2197,6 +2204,7 @@
         router-for-me
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/tianlusec">
         <img src="https://avatars.githubusercontent.com/u/245497471?v=4" width="50" />
@@ -2204,7 +2212,6 @@
         tianlusec
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/SourByte05">
         <img src="https://avatars.githubusercontent.com/u/247125081?v=4" width="50" />
@@ -2220,8 +2227,11 @@
       </a>
     </td>
     <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
+      <a href="https://github.com/lirui1122334455-arch">
+        <img src="https://avatars.githubusercontent.com/u/259941095?v=4" width="50" />
+        <br />
+        lirui1122334455-arch
+      </a>
     </td>
     <td width="150" align="center">
     </td>
