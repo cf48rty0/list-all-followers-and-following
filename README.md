@@ -14,10 +14,17 @@
 | -- | -- | -- | -- | -- |
 | - | - | - | - | - |
 
-## Followers <kbd>2</kbd>
+## Followers <kbd>3</kbd>
 
 <table>
   <tr>
+    <td width="150" align="center">
+      <a href="https://github.com/lxcadoza993">
+        <img src="https://avatars.githubusercontent.com/u/324579685?v=4" width="50" />
+        <br />
+        lxcadoza993
+      </a>
+    </td>
     <td width="150" align="center">
       <a href="https://github.com/help66">
         <img src="https://avatars.githubusercontent.com/u/171475867?v=4" width="50" />
@@ -31,8 +38,6 @@
         <br />
         standardgalactic
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
