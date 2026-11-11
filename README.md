@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | - | - | - | - | - |
 
-## Followers <kbd>6</kbd>
+## Followers <kbd>5</kbd>
 
 <table>
   <tr>
@@ -33,13 +33,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/arvelquigley99">
-        <img src="https://avatars.githubusercontent.com/u/324570876?v=4" width="50" />
-        <br />
-        arvelquigley99
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/help66">
         <img src="https://avatars.githubusercontent.com/u/171475867?v=4" width="50" />
         <br />
@@ -53,21 +46,12 @@
         standardgalactic
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kpopdev">
         <img src="https://avatars.githubusercontent.com/u/28566705?v=4" width="50" />
         <br />
         kpopdev
       </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
