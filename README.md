@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | - | - | - | - | - |
 
-## Followers <kbd>5</kbd>
+## Followers <kbd>4</kbd>
 
 <table>
   <tr>
@@ -23,13 +23,6 @@
         <img src="https://avatars.githubusercontent.com/u/334843394?v=4" width="50" />
         <br />
         3mEANuNrentDerisive
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/lxcadoza993">
-        <img src="https://avatars.githubusercontent.com/u/324579685?v=4" width="50" />
-        <br />
-        lxcadoza993
       </a>
     </td>
     <td width="150" align="center">
@@ -52,6 +45,8 @@
         <br />
         kpopdev
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
